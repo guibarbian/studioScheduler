@@ -2,7 +2,7 @@ package com.guibarbian.StudioScheduler.models;
 
 import java.time.LocalDate;
 
-import com.guibarbian.enums.Status;
+import com.guibarbian.StudioScheduler.enums.Status;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
